@@ -9,14 +9,12 @@ This project is focused on building and evaluating multiple machine learning mod
 - ✅ Used **Optuna** for hyperparameter optimization
 - ✅ Applied **SMOTE** for class balancing
 - ✅ Performed detailed **data cleaning**, **encoding**, and **scaling**
-- ✅ Real-world dataset: 550,000+ rows (large, noisy & imbalanced)
+- ✅ Real-world dataset: Adult Census Income Dataset (large, noisy & imbalanced)
 
 ## 📂 Dataset Info
 
 - **Source**: Kaggle (UCI Adult Dataset based, Pakistan-based version)
-- **Total Rows**: ~550,000
 - **Target Column**: `income` (<=50K or >50K)
-- **Feature Columns**: age, education, occupation, hours/week, etc.
 
 ### Example Row:
 ```csv
